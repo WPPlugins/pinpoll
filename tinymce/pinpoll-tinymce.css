@@ -1,0 +1,118 @@
+/**
+ * Stylesheet for TinyMCE Popup Window
+ *
+ * Description: Main Stylesheet for the tinymce popup window
+ *
+ * @type {css}
+ *
+ * @package Pinpoll
+ * @subpackage Pinpoll/tinymce
+ *
+ */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #0000;
+  color: #222;
+  padding: 10px;
+}
+
+label {
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+input[type="text"] {
+  padding: 4px 6px;
+  font-size: 0.75em;
+ }
+
+input[type="submit"] {
+    text-align: center;
+    background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+      -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+    font-size: 1.0em;
+    border-radius: 3px;
+    white-space: nowrap;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    height: 30px;
+    line-height: 28px;
+    padding: 0 12px 2px;
+}
+
+input[type="submit"]:hover {
+  background: #008ec2;
+  border-color: #006799;
+  color: #fff;
+}
+
+.scrollableTable {
+  height: 150px;
+  overflow: scroll;
+}
+
+table {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;;
+  border-collapse: collapse;
+  width: 100%;
+  overflow: auto;
+  empty-cells: hide;
+}
+
+td, th {
+  border: 0px;
+  text-align: left;
+  padding: 8px;
+}
+
+tr {
+  cursor: pointer;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+button {
+  text-align: center;
+  color: #555;
+  border-color: #cccccc;
+  background: #f7f7f7;
+  -webkit-box-shadow: 0 1px 0 #cccccc;
+  box-shadow: 0 1px 0 #cccccc;
+  vertical-align: top;    text-decoration: none;
+  font-size: 0.75em;
+  line-height: 20px;
+  height: 27px;
+  margin: 0;
+  padding: 0 10px 1px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+  -webkit-appearance: none;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  white-space: nowrap;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+button:hover {
+  background: #fafafa;
+  border-color: #999;
+  color: #23282d;
+}
+
+#pp-search-container {
+  display: none;
+}

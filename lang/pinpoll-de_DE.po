@@ -1,0 +1,2297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinpoll Translation DE v1.0.0\n"
+"POT-Creation-Date: 2017-01-11 14:24+0100\n"
+"PO-Revision-Date: 2017-01-11 14:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: Alex <alexander@pinpoll.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+
+#: admin/includes/class-wp-list-table.php:162
+#, fuzzy
+msgid "List View"
+msgstr "Eintragansicht"
+
+#: admin/includes/class-wp-list-table.php:163
+msgid "Excerpt View"
+msgstr "Auschnitt"
+
+#: admin/includes/class-wp-list-table.php:334
+msgid "No items found."
+msgstr "Kein Einträge gefunden."
+
+#: admin/includes/class-wp-list-table.php:462
+msgid "Select bulk action"
+msgstr "Aktion auswählen"
+
+#: admin/includes/class-wp-list-table.php:464
+msgid "Bulk Actions"
+msgstr "Aktion wählen"
+
+#: admin/includes/class-wp-list-table.php:474
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: admin/includes/class-wp-list-table.php:524
+#: admin/includes/class-wp-list-table.php:1325
+msgid "Show more details"
+msgstr "Details anzeigen"
+
+#: admin/includes/class-wp-list-table.php:587
+msgid "Filter by date"
+msgstr "Nach Datum sortieren"
+
+#: admin/includes/class-wp-list-table.php:589
+msgid "All dates"
+msgstr "Alle Daten"
+
+#: admin/includes/class-wp-list-table.php:602
+#, php-format
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: admin/includes/class-wp-list-table.php:654
+#, php-format
+msgid "%s comment"
+msgstr "%s comment"
+
+#: admin/includes/class-wp-list-table.php:655
+#, php-format
+msgid "%s approved comment"
+msgstr "%s approved comment"
+
+#: admin/includes/class-wp-list-table.php:656
+#, php-format
+msgid "%s pending comment"
+msgstr "%s pending comment"
+
+#: admin/includes/class-wp-list-table.php:661
+#: admin/includes/class-wp-list-table.php:673
+#: admin/includes/class-wp-list-table.php:686
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: admin/includes/class-wp-list-table.php:673
+msgid "No approved comments"
+msgstr "Keine zugelassenen Kommentare"
+
+#: admin/includes/class-wp-list-table.php:686
+msgid "No pending comments"
+msgstr "Keine ausstehende Kommentare"
+
+#: admin/includes/class-wp-list-table.php:763
+#: admin/includes/class-wp-list-table.php:1350
+#, php-format
+msgid "%s item"
+msgstr "%s item"
+
+#: admin/includes/class-wp-list-table.php:799
+msgid "First page"
+msgstr "Erste Seite"
+
+#: admin/includes/class-wp-list-table.php:809
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: admin/includes/class-wp-list-table.php:816
+#: admin/includes/class-wp-list-table.php:819
+msgid "Current Page"
+msgstr "Aktuelle Seite"
+
+#: admin/includes/class-wp-list-table.php:825
+#, php-format
+msgid "%1$s of %2$s"
+msgstr "%1$s von %2$s"
+
+#: admin/includes/class-wp-list-table.php:832
+msgid "Next page"
+msgstr "Weiter"
+
+#: admin/includes/class-wp-list-table.php:842
+msgid "Last page"
+msgstr "Zurück"
+
+#: admin/includes/class-wp-list-table.php:1070
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: admin/pinpoll-table.php:53 admin/resources/pinpoll-texts.php:281
+msgid "No polls found."
+msgstr "Keine Abstimmungen vorhanden."
+
+#: admin/pinpoll-table.php:63 admin/resources/pinpoll-texts.php:160
+#: admin/resources/pinpoll-texts.php:264
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/pinpoll-table.php:224 admin/resources/pinpoll-texts.php:286
+msgid "ID"
+msgstr "ID"
+
+#: admin/pinpoll-table.php:225
+msgid "Question"
+msgstr "Frage"
+
+#: admin/pinpoll-table.php:226 admin/resources/pinpoll-texts.php:32
+#: admin/resources/pinpoll-texts.php:173 admin/resources/pinpoll-texts.php:201
+#: admin/resources/pinpoll-texts.php:205
+msgid "Votes"
+msgstr "Stimmen"
+
+#: admin/pinpoll-table.php:228
+msgid "Created"
+msgstr "Erstellt"
+
+#: admin/pinpoll-table.php:229
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/pinpoll-table.php:230
+msgid "Active"
+msgstr "Aktiv"
+
+#: admin/pinpoll-table.php:401
+msgid "width:100%;"
+msgstr "with:100%"
+
+#: admin/resources/pinpoll-category.php:22
+msgid "Arts & Entertainment"
+msgstr "Kunst & Unterhaltung"
+
+#: admin/resources/pinpoll-category.php:23
+msgid "Automotive"
+msgstr "Auto & Verkehr"
+
+#: admin/resources/pinpoll-category.php:24
+msgid "Business"
+msgstr "Wirtschaft"
+
+#: admin/resources/pinpoll-category.php:25
+msgid "Careers"
+msgstr "Karriere"
+
+#: admin/resources/pinpoll-category.php:26
+msgid "Education"
+msgstr "Schule & Bildung"
+
+#: admin/resources/pinpoll-category.php:27
+msgid "Family & Parenting"
+msgstr "Familie & Erziehung"
+
+#: admin/resources/pinpoll-category.php:28
+msgid "Health & Fitness"
+msgstr "Gesundheit & Fitness"
+
+#: admin/resources/pinpoll-category.php:29
+msgid "Food & Drink"
+msgstr "Essen & Trinken"
+
+#: admin/resources/pinpoll-category.php:30
+msgid "Hobbies & Interest"
+msgstr "Hobbies & Interessen"
+
+#: admin/resources/pinpoll-category.php:31
+msgid "Home & Garden"
+msgstr "Heim & Garten"
+
+#: admin/resources/pinpoll-category.php:32
+msgid "Law, Government & Politics"
+msgstr "Politik & Regierung"
+
+#: admin/resources/pinpoll-category.php:33
+msgid "News"
+msgstr "Nachrichten"
+
+#: admin/resources/pinpoll-category.php:34
+msgid "Personal Finance"
+msgstr "Finanzen"
+
+#: admin/resources/pinpoll-category.php:35
+msgid "Society"
+msgstr "Gesellschaft"
+
+#: admin/resources/pinpoll-category.php:36
+msgid "Science"
+msgstr "Wissenschaft"
+
+#: admin/resources/pinpoll-category.php:37
+msgid "Pets"
+msgstr "Haustiere"
+
+#: admin/resources/pinpoll-category.php:38
+msgid "Sports"
+msgstr "Sport"
+
+#: admin/resources/pinpoll-category.php:39
+msgid "Style & Fashion"
+msgstr "Mode"
+
+#: admin/resources/pinpoll-category.php:40
+msgid "Technology & Computing"
+msgstr "Technologie"
+
+#: admin/resources/pinpoll-category.php:41
+msgid "Travel"
+msgstr "Reisen & Orte"
+
+#: admin/resources/pinpoll-category.php:42
+msgid "Real Estate"
+msgstr "Immobilien"
+
+#: admin/resources/pinpoll-category.php:43
+msgid "Shopping"
+msgstr "Shopping"
+
+#: admin/resources/pinpoll-category.php:44
+msgid "Religion & Spirituality"
+msgstr "Religion & Spiritualität"
+
+#: admin/resources/pinpoll-category.php:45
+msgid "Other"
+msgstr "Sonstiges"
+
+#: admin/resources/pinpoll-country.php:22
+msgid "Anonymous Proxy"
+msgstr "Anonymer Proxy"
+
+#: admin/resources/pinpoll-country.php:23
+msgid "Satellite Provider"
+msgstr "Satellitenanbieter"
+
+#: admin/resources/pinpoll-country.php:24
+msgid "Other Country"
+msgstr "Anderes Land"
+
+#: admin/resources/pinpoll-country.php:25
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: admin/resources/pinpoll-country.php:26
+msgid "Aland Islands"
+msgstr "Aland Inseln"
+
+#: admin/resources/pinpoll-country.php:27
+msgid "Albania"
+msgstr "Albanien"
+
+#: admin/resources/pinpoll-country.php:28
+msgid "Algeria"
+msgstr "Algerien"
+
+#: admin/resources/pinpoll-country.php:29
+msgid "American Samoa"
+msgstr "Amerikanisch Samao"
+
+#: admin/resources/pinpoll-country.php:30
+msgid "Andorra"
+msgstr "Andorra"
+
+#: admin/resources/pinpoll-country.php:31
+msgid "Angola"
+msgstr "Angola"
+
+#: admin/resources/pinpoll-country.php:32
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: admin/resources/pinpoll-country.php:33
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: admin/resources/pinpoll-country.php:34
+msgid "Antigua and Barbuda"
+msgstr "Antigua und Barbuda"
+
+#: admin/resources/pinpoll-country.php:35
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: admin/resources/pinpoll-country.php:36
+msgid "Armenia"
+msgstr "Armenien"
+
+#: admin/resources/pinpoll-country.php:37
+msgid "Aruba"
+msgstr "Aruba"
+
+#: admin/resources/pinpoll-country.php:38
+msgid "Australia"
+msgstr "Austrialien"
+
+#: admin/resources/pinpoll-country.php:39
+msgid "Austria"
+msgstr "Österreich"
+
+#: admin/resources/pinpoll-country.php:40
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: admin/resources/pinpoll-country.php:41
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: admin/resources/pinpoll-country.php:42
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: admin/resources/pinpoll-country.php:43
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: admin/resources/pinpoll-country.php:44
+msgid "Barbados"
+msgstr "Barbados"
+
+#: admin/resources/pinpoll-country.php:45
+msgid "Belarus"
+msgstr "Weißrussland"
+
+#: admin/resources/pinpoll-country.php:46
+msgid "Belgium"
+msgstr "Belgien"
+
+#: admin/resources/pinpoll-country.php:47
+msgid "Belize"
+msgstr "Belize"
+
+#: admin/resources/pinpoll-country.php:48
+msgid "Benin"
+msgstr "Benin"
+
+#: admin/resources/pinpoll-country.php:49
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: admin/resources/pinpoll-country.php:50
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: admin/resources/pinpoll-country.php:51
+msgid "Bolivia, Plurinational State of"
+msgstr "Bolivien"
+
+#: admin/resources/pinpoll-country.php:52
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr "Karibische Niederlande"
+
+#: admin/resources/pinpoll-country.php:53
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnien und Herzegowin"
+
+#: admin/resources/pinpoll-country.php:54
+msgid "Botswana"
+msgstr "Botsuana"
+
+#: admin/resources/pinpoll-country.php:55
+msgid "Bouvet Island"
+msgstr "Bouvetinsel"
+
+#: admin/resources/pinpoll-country.php:56
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: admin/resources/pinpoll-country.php:57
+msgid "British Indian Ocean Territory"
+msgstr "Britische Territorien im Indischen Ozean"
+
+#: admin/resources/pinpoll-country.php:58
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: admin/resources/pinpoll-country.php:59
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: admin/resources/pinpoll-country.php:60
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: admin/resources/pinpoll-country.php:61
+msgid "Burundi"
+msgstr "Burundi"
+
+#: admin/resources/pinpoll-country.php:62
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: admin/resources/pinpoll-country.php:63
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: admin/resources/pinpoll-country.php:64
+msgid "Canada"
+msgstr "Kanada"
+
+#: admin/resources/pinpoll-country.php:65
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: admin/resources/pinpoll-country.php:66
+msgid "Cayman Islands"
+msgstr "Kaimaninseln"
+
+#: admin/resources/pinpoll-country.php:67
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+#: admin/resources/pinpoll-country.php:68
+msgid "Chad"
+msgstr "Tschad"
+
+#: admin/resources/pinpoll-country.php:69
+msgid "Chile"
+msgstr "Chile"
+
+#: admin/resources/pinpoll-country.php:70
+msgid "China"
+msgstr "China"
+
+#: admin/resources/pinpoll-country.php:71
+msgid "Christmas Island"
+msgstr "Weihnachtsinseln"
+
+#: admin/resources/pinpoll-country.php:72
+msgid "Cocos (Keeling) Islands"
+msgstr "Kokosinseln"
+
+#: admin/resources/pinpoll-country.php:73
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: admin/resources/pinpoll-country.php:74
+msgid "Comoros"
+msgstr "Komoren"
+
+#: admin/resources/pinpoll-country.php:75
+msgid "Congo"
+msgstr "Kongo"
+
+#: admin/resources/pinpoll-country.php:76
+msgid "Congo, the Democratic Republic of the"
+msgstr "Kongo, Dem. Rep."
+
+#: admin/resources/pinpoll-country.php:77
+msgid "Cook Islands"
+msgstr "Cookinseln"
+
+#: admin/resources/pinpoll-country.php:78
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: admin/resources/pinpoll-country.php:79
+msgid "Cote d'Ivoire"
+msgstr "Cote d’Ivoire"
+
+#: admin/resources/pinpoll-country.php:80
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: admin/resources/pinpoll-country.php:81
+msgid "Cuba"
+msgstr "Kuba"
+
+#: admin/resources/pinpoll-country.php:82
+msgid "Curacao"
+msgstr "Curacao"
+
+#: admin/resources/pinpoll-country.php:83
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: admin/resources/pinpoll-country.php:84
+msgid "Czech Republic"
+msgstr "Tschechische Republik"
+
+#: admin/resources/pinpoll-country.php:85
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: admin/resources/pinpoll-country.php:86
+msgid "Djibouti"
+msgstr "Republik Dschibuti"
+
+#: admin/resources/pinpoll-country.php:87
+msgid "Dominica"
+msgstr "Dominica"
+
+#: admin/resources/pinpoll-country.php:88
+msgid "Dominican Republic"
+msgstr "Dominikanische Republic"
+
+#: admin/resources/pinpoll-country.php:89
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: admin/resources/pinpoll-country.php:90
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: admin/resources/pinpoll-country.php:91
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: admin/resources/pinpoll-country.php:92
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+#: admin/resources/pinpoll-country.php:93
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: admin/resources/pinpoll-country.php:94
+msgid "Estonia"
+msgstr "Estland"
+
+#: admin/resources/pinpoll-country.php:95
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: admin/resources/pinpoll-country.php:96
+msgid "Falkland Islands (Malvinas)"
+msgstr "Faklandinseln"
+
+#: admin/resources/pinpoll-country.php:97
+msgid "Faroe Islands"
+msgstr "Färöer"
+
+#: admin/resources/pinpoll-country.php:98
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: admin/resources/pinpoll-country.php:99
+msgid "Finland"
+msgstr "Finnland"
+
+#: admin/resources/pinpoll-country.php:100
+msgid "France"
+msgstr "Frankreich"
+
+#: admin/resources/pinpoll-country.php:101
+msgid "French Guiana"
+msgstr "Französisch Guiana"
+
+#: admin/resources/pinpoll-country.php:102
+msgid "French Polynesia"
+msgstr "Französisch Polynesien"
+
+#: admin/resources/pinpoll-country.php:103
+msgid "French Southern Territories"
+msgstr "Französische Südgebiete"
+
+#: admin/resources/pinpoll-country.php:104
+msgid "Gabon"
+msgstr "Gabun"
+
+#: admin/resources/pinpoll-country.php:105
+msgid "Gambia"
+msgstr "Gambia"
+
+#: admin/resources/pinpoll-country.php:106
+msgid "Georgia"
+msgstr "Georgien"
+
+#: admin/resources/pinpoll-country.php:107
+msgid "Germany"
+msgstr "Deutschland"
+
+#: admin/resources/pinpoll-country.php:108
+msgid "Ghana"
+msgstr "Ghana"
+
+#: admin/resources/pinpoll-country.php:109
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: admin/resources/pinpoll-country.php:110
+msgid "Greece"
+msgstr "Griechenland"
+
+#: admin/resources/pinpoll-country.php:111
+msgid "Greenland"
+msgstr "Grönland"
+
+#: admin/resources/pinpoll-country.php:112
+msgid "Grenada"
+msgstr "Grenada"
+
+#: admin/resources/pinpoll-country.php:113
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: admin/resources/pinpoll-country.php:114
+msgid "Guam"
+msgstr "Guam"
+
+#: admin/resources/pinpoll-country.php:115
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: admin/resources/pinpoll-country.php:116
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: admin/resources/pinpoll-country.php:117
+msgid "Guinea"
+msgstr "Guinea"
+
+#: admin/resources/pinpoll-country.php:118
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: admin/resources/pinpoll-country.php:119
+msgid "Guyana"
+msgstr "Guyana"
+
+#: admin/resources/pinpoll-country.php:120
+msgid "Haiti"
+msgstr "Haiti"
+
+#: admin/resources/pinpoll-country.php:121
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Inseln und McDonald Inseln"
+
+#: admin/resources/pinpoll-country.php:122
+msgid "Holy See (Vatican City State)"
+msgstr "Heiliger Stuhl"
+
+#: admin/resources/pinpoll-country.php:123
+msgid "Honduras"
+msgstr "Honduras"
+
+#: admin/resources/pinpoll-country.php:124
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: admin/resources/pinpoll-country.php:125
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: admin/resources/pinpoll-country.php:126
+msgid "Iceland"
+msgstr "Island"
+
+#: admin/resources/pinpoll-country.php:127
+msgid "India"
+msgstr "Indien"
+
+#: admin/resources/pinpoll-country.php:128
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: admin/resources/pinpoll-country.php:129
+msgid "Iran, Islamic Republic of"
+msgstr "Iran, Islam. Rep."
+
+#: admin/resources/pinpoll-country.php:130
+msgid "Iraq"
+msgstr "Irak"
+
+#: admin/resources/pinpoll-country.php:131
+msgid "Ireland"
+msgstr "Irland"
+
+#: admin/resources/pinpoll-country.php:132
+msgid "Isle of Man"
+msgstr "Isle of Man"
+
+#: admin/resources/pinpoll-country.php:133
+msgid "Israel"
+msgstr "Israel"
+
+#: admin/resources/pinpoll-country.php:134
+msgid "Italy"
+msgstr "Italien"
+
+#: admin/resources/pinpoll-country.php:135
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: admin/resources/pinpoll-country.php:136
+msgid "Japan"
+msgstr "Japan"
+
+#: admin/resources/pinpoll-country.php:137
+msgid "Jersey"
+msgstr "Jersey"
+
+#: admin/resources/pinpoll-country.php:138
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: admin/resources/pinpoll-country.php:139
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: admin/resources/pinpoll-country.php:140
+msgid "Kenya"
+msgstr "Kenia"
+
+#: admin/resources/pinpoll-country.php:141
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: admin/resources/pinpoll-country.php:142
+msgid "Korea, Democratic People's Republic of"
+msgstr "Korea, Dem. Volksrep."
+
+#: admin/resources/pinpoll-country.php:143
+msgid "Korea, Republic of"
+msgstr "Korea, Rep."
+
+#: admin/resources/pinpoll-country.php:144
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: admin/resources/pinpoll-country.php:145
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: admin/resources/pinpoll-country.php:146
+msgid "Lao People's Democratic Republic"
+msgstr "Laos, Dem. Volksrep."
+
+#: admin/resources/pinpoll-country.php:147
+msgid "Latvia"
+msgstr "Lettland"
+
+#: admin/resources/pinpoll-country.php:148
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: admin/resources/pinpoll-country.php:149
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: admin/resources/pinpoll-country.php:150
+msgid "Liberia"
+msgstr "Liberia"
+
+#: admin/resources/pinpoll-country.php:151
+msgid "Libya"
+msgstr "Libysch-Arabische Dschamahirija"
+
+#: admin/resources/pinpoll-country.php:152
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: admin/resources/pinpoll-country.php:153
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: admin/resources/pinpoll-country.php:154
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: admin/resources/pinpoll-country.php:155
+msgid "Macao"
+msgstr "Macao"
+
+#: admin/resources/pinpoll-country.php:156
+msgid "Macedonia, the Former Yugoslav Republic of"
+msgstr "Mazedonien, ehemalige jugoslawische Republik"
+
+#: admin/resources/pinpoll-country.php:157
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: admin/resources/pinpoll-country.php:158
+msgid "Malawi"
+msgstr "Malawi"
+
+#: admin/resources/pinpoll-country.php:159
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: admin/resources/pinpoll-country.php:160
+msgid "Maldives"
+msgstr "Malediven"
+
+#: admin/resources/pinpoll-country.php:161
+msgid "Mali"
+msgstr "Mali"
+
+#: admin/resources/pinpoll-country.php:162
+msgid "Malta"
+msgstr "Malta"
+
+#: admin/resources/pinpoll-country.php:163
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: admin/resources/pinpoll-country.php:164
+msgid "Martinique"
+msgstr "Martinique"
+
+#: admin/resources/pinpoll-country.php:165
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: admin/resources/pinpoll-country.php:166
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: admin/resources/pinpoll-country.php:167
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: admin/resources/pinpoll-country.php:168
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: admin/resources/pinpoll-country.php:169
+msgid "Micronesia, Federated States of"
+msgstr "Mikronesien, Föderierte Staaten von"
+
+#: admin/resources/pinpoll-country.php:170
+msgid "Moldova, Republic of"
+msgstr "Moldau, Rep."
+
+#: admin/resources/pinpoll-country.php:171
+msgid "Monaco"
+msgstr "Monaco"
+
+#: admin/resources/pinpoll-country.php:172
+msgid "Mongolia"
+msgstr "Mongolei"
+
+#: admin/resources/pinpoll-country.php:173
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: admin/resources/pinpoll-country.php:174
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: admin/resources/pinpoll-country.php:175
+msgid "Morocco"
+msgstr "Marokko"
+
+#: admin/resources/pinpoll-country.php:176
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: admin/resources/pinpoll-country.php:177
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: admin/resources/pinpoll-country.php:178
+msgid "Namibia"
+msgstr "Namibia"
+
+#: admin/resources/pinpoll-country.php:179
+msgid "Nauru"
+msgstr "Nauru"
+
+#: admin/resources/pinpoll-country.php:180
+msgid "Nepal"
+msgstr "Nepal"
+
+#: admin/resources/pinpoll-country.php:181
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: admin/resources/pinpoll-country.php:182
+msgid "New Caledonia"
+msgstr "Neukaledonien"
+
+#: admin/resources/pinpoll-country.php:183
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: admin/resources/pinpoll-country.php:184
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: admin/resources/pinpoll-country.php:185
+msgid "Niger"
+msgstr "Niger"
+
+#: admin/resources/pinpoll-country.php:186
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: admin/resources/pinpoll-country.php:187
+msgid "Niue"
+msgstr "Niue"
+
+#: admin/resources/pinpoll-country.php:188
+msgid "Norfolk Island"
+msgstr "Norfolk Inseln"
+
+#: admin/resources/pinpoll-country.php:189
+msgid "Northern Mariana Islands"
+msgstr "Nördliche Marianen"
+
+#: admin/resources/pinpoll-country.php:190
+msgid "Norway"
+msgstr "Norwegen"
+
+#: admin/resources/pinpoll-country.php:191
+msgid "Oman"
+msgstr "Oman"
+
+#: admin/resources/pinpoll-country.php:192
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: admin/resources/pinpoll-country.php:193
+msgid "Palau"
+msgstr "Palau"
+
+#: admin/resources/pinpoll-country.php:194
+msgid "Palestine, State of"
+msgstr "Palästinische Gebiete"
+
+#: admin/resources/pinpoll-country.php:195
+msgid "Panama"
+msgstr "Panama"
+
+#: admin/resources/pinpoll-country.php:196
+msgid "Papua New Guinea"
+msgstr "Papua-Neuguinea"
+
+#: admin/resources/pinpoll-country.php:197
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: admin/resources/pinpoll-country.php:198
+msgid "Peru"
+msgstr "Peru"
+
+#: admin/resources/pinpoll-country.php:199
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: admin/resources/pinpoll-country.php:200
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: admin/resources/pinpoll-country.php:201
+msgid "Poland"
+msgstr "Polen"
+
+#: admin/resources/pinpoll-country.php:202
+msgid "Portugal"
+msgstr "Portugal"
+
+#: admin/resources/pinpoll-country.php:203
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: admin/resources/pinpoll-country.php:204
+msgid "Qatar"
+msgstr "Katar"
+
+#: admin/resources/pinpoll-country.php:205
+msgid "Reunion"
+msgstr "Reunion"
+
+#: admin/resources/pinpoll-country.php:206
+msgid "Romania"
+msgstr "Rumänien"
+
+#: admin/resources/pinpoll-country.php:207
+msgid "Russian Federation"
+msgstr "Russische Förderation"
+
+#: admin/resources/pinpoll-country.php:208
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: admin/resources/pinpoll-country.php:209
+msgid "Saint Barthelemy"
+msgstr "St. Barthelemy"
+
+#: admin/resources/pinpoll-country.php:210
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr "Saint Helena"
+
+#: admin/resources/pinpoll-country.php:211
+msgid "Saint Kitts and Nevis"
+msgstr "St. Kitts and Nevis"
+
+#: admin/resources/pinpoll-country.php:212
+msgid "Saint Lucia"
+msgstr "St. Lucia"
+
+#: admin/resources/pinpoll-country.php:213
+msgid "Saint Martin (French part)"
+msgstr "St. Martin"
+
+#: admin/resources/pinpoll-country.php:214
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre und Miquelon"
+
+#: admin/resources/pinpoll-country.php:215
+msgid "Saint Vincent and the Grenadines"
+msgstr "St. Vincent und die Grenadinen"
+
+#: admin/resources/pinpoll-country.php:216
+msgid "Samoa"
+msgstr "Samao"
+
+#: admin/resources/pinpoll-country.php:217
+msgid "San Marino"
+msgstr "San Marino"
+
+#: admin/resources/pinpoll-country.php:218
+msgid "Sao Tome and Principe"
+msgstr "Sao Tome und Principe"
+
+#: admin/resources/pinpoll-country.php:219
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: admin/resources/pinpoll-country.php:220
+msgid "Senegal"
+msgstr "Senegal"
+
+#: admin/resources/pinpoll-country.php:221
+msgid "Serbia"
+msgstr "Serbien"
+
+#: admin/resources/pinpoll-country.php:222
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: admin/resources/pinpoll-country.php:223
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: admin/resources/pinpoll-country.php:224
+msgid "Singapore"
+msgstr "Singapur"
+
+#: admin/resources/pinpoll-country.php:225
+msgid "Sint Maarten (Dutch part)"
+msgstr "Sint Maarten"
+
+#: admin/resources/pinpoll-country.php:226
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: admin/resources/pinpoll-country.php:227
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: admin/resources/pinpoll-country.php:228
+msgid "Solomon Islands"
+msgstr "Salomonen"
+
+#: admin/resources/pinpoll-country.php:229
+msgid "Somalia"
+msgstr "Somalia"
+
+#: admin/resources/pinpoll-country.php:230
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: admin/resources/pinpoll-country.php:231
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Südgeorgien und die Südlichen Sandwichinseln"
+
+#: admin/resources/pinpoll-country.php:232
+msgid "South Sudan"
+msgstr "Südsudan"
+
+#: admin/resources/pinpoll-country.php:233
+msgid "Spain"
+msgstr "Spanien"
+
+#: admin/resources/pinpoll-country.php:234
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: admin/resources/pinpoll-country.php:235
+msgid "Sudan"
+msgstr "Sudan"
+
+#: admin/resources/pinpoll-country.php:236
+msgid "Suriname"
+msgstr "Suriname"
+
+#: admin/resources/pinpoll-country.php:237
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard und Jan Mayen"
+
+#: admin/resources/pinpoll-country.php:238
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: admin/resources/pinpoll-country.php:239
+msgid "Sweden"
+msgstr "Schweden"
+
+#: admin/resources/pinpoll-country.php:240
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: admin/resources/pinpoll-country.php:241
+msgid "Syrian Arab Republic"
+msgstr "Syrien, Arab. Rep."
+
+#: admin/resources/pinpoll-country.php:242
+msgid "Taiwan, Province of China"
+msgstr "Twain"
+
+#: admin/resources/pinpoll-country.php:243
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: admin/resources/pinpoll-country.php:244
+msgid "Tanzania, United Republic of"
+msgstr "Tansania, Vereinigte Rep."
+
+#: admin/resources/pinpoll-country.php:245
+msgid "Thailand"
+msgstr "Thailand"
+
+#: admin/resources/pinpoll-country.php:246
+msgid "Timor-Leste"
+msgstr "Timor-Leset"
+
+#: admin/resources/pinpoll-country.php:247
+msgid "Togo"
+msgstr "Togo"
+
+#: admin/resources/pinpoll-country.php:248
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: admin/resources/pinpoll-country.php:249
+msgid "Tonga"
+msgstr "Tonga"
+
+#: admin/resources/pinpoll-country.php:250
+msgid "Trinidad and Tobago"
+msgstr "Trinidad und Tobago"
+
+#: admin/resources/pinpoll-country.php:251
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: admin/resources/pinpoll-country.php:252
+msgid "Turkey"
+msgstr "Türkei"
+
+#: admin/resources/pinpoll-country.php:253
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: admin/resources/pinpoll-country.php:254
+msgid "Turks and Caicos Islands"
+msgstr "Turks- und Caicosinseln"
+
+#: admin/resources/pinpoll-country.php:255
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: admin/resources/pinpoll-country.php:256
+msgid "Uganda"
+msgstr "Uganda"
+
+#: admin/resources/pinpoll-country.php:257
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: admin/resources/pinpoll-country.php:258
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: admin/resources/pinpoll-country.php:259
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich"
+
+#: admin/resources/pinpoll-country.php:260
+msgid "United States"
+msgstr "Vereinigte Staaten von Amerika"
+
+#: admin/resources/pinpoll-country.php:261
+msgid "United States Minor Outlying Islands"
+msgstr "United States Minor Outlying Islands"
+
+#: admin/resources/pinpoll-country.php:262
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: admin/resources/pinpoll-country.php:263
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: admin/resources/pinpoll-country.php:264
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: admin/resources/pinpoll-country.php:265
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "Venezuela"
+
+#: admin/resources/pinpoll-country.php:266
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: admin/resources/pinpoll-country.php:267
+msgid "Virgin Islands, British"
+msgstr "Britische Jungferninseln"
+
+#: admin/resources/pinpoll-country.php:268
+msgid "Virgin Islands, U.S."
+msgstr "Amerikanische Jungferninseln"
+
+#: admin/resources/pinpoll-country.php:269
+msgid "Wallis and Futuna"
+msgstr "Wallis und Futuna"
+
+#: admin/resources/pinpoll-country.php:270
+msgid "Western Sahara"
+msgstr "Westsahara"
+
+#: admin/resources/pinpoll-country.php:271
+msgid "Yemen"
+msgstr "Jemen"
+
+#: admin/resources/pinpoll-country.php:272
+msgid "Zambia"
+msgstr "Sambia"
+
+#: admin/resources/pinpoll-country.php:273
+msgid "Zimbabwe"
+msgstr "Simbabwe"
+
+#: admin/resources/pinpoll-country.php:274
+msgid "European Union"
+msgstr "Europäische Union"
+
+#: admin/resources/pinpoll-texts.php:20 admin/resources/pinpoll-texts.php:303
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/resources/pinpoll-texts.php:21
+msgid "Great! Want to help us by writing a <strong>WordPress Review</strong>?"
+msgstr ""
+"Cool! Willst du uns mit einer <strong>WordPress-Bewertung</strong> helfen?"
+
+#: admin/resources/pinpoll-texts.php:22 admin/resources/pinpoll-texts.php:68
+#: admin/resources/pinpoll-texts.php:105 admin/resources/pinpoll-texts.php:117
+#: admin/resources/pinpoll-texts.php:305
+msgid "Create Poll"
+msgstr "Abstimmung erstellen"
+
+#: admin/resources/pinpoll-texts.php:23
+msgid "All Votes"
+msgstr "Alle Stimmen"
+
+#: admin/resources/pinpoll-texts.php:24
+msgid "Votes total"
+msgstr "Stimmen gesamt"
+
+#: admin/resources/pinpoll-texts.php:25 admin/resources/pinpoll-texts.php:187
+msgid "24 Hours"
+msgstr "24 Stunden"
+
+#: admin/resources/pinpoll-texts.php:26
+msgid "30 Days"
+msgstr "30 Tage"
+
+#: admin/resources/pinpoll-texts.php:27 admin/resources/pinpoll-texts.php:198
+msgid "Votes per Country"
+msgstr "Stimmen pro Land"
+
+#: admin/resources/pinpoll-texts.php:28 admin/resources/pinpoll-texts.php:204
+msgid "Votes per City"
+msgstr "Stimmen pro Stadt"
+
+#: admin/resources/pinpoll-texts.php:29 admin/resources/pinpoll-texts.php:199
+msgid "#"
+msgstr "#"
+
+#: admin/resources/pinpoll-texts.php:30 admin/resources/pinpoll-texts.php:200
+msgid "Country"
+msgstr "Land"
+
+#: admin/resources/pinpoll-texts.php:31 admin/resources/pinpoll-texts.php:203
+msgid "City"
+msgstr "Stadt"
+
+#: admin/resources/pinpoll-texts.php:33 admin/resources/pinpoll-texts.php:202
+msgid "No data available."
+msgstr "Keine Daten verfügbar."
+
+#: admin/resources/pinpoll-texts.php:34
+msgid "Do you enjoy Pinpoll?"
+msgstr "Gefällt dir Pinpoll?"
+
+#: admin/resources/pinpoll-texts.php:35
+msgid "Thank you!"
+msgstr "Danke!"
+
+#: admin/resources/pinpoll-texts.php:36
+msgid "How can we improve?"
+msgstr "Was können wir besser machen?"
+
+#: admin/resources/pinpoll-texts.php:37
+msgid "Your WordPress review will help us big times."
+msgstr "Deine WordPress-Bewertung hilft uns enorm."
+
+#: admin/resources/pinpoll-texts.php:38
+msgid "Click on \"Write a review\" to post your feedback - thanks so much! "
+msgstr ""
+"Klicke auf „Bewertung abgeben“ um dein Feedback zu schreiben - vielen Dank!"
+
+#: admin/resources/pinpoll-texts.php:39
+msgid "Write a review"
+msgstr "Bewertung abgeben"
+
+#: admin/resources/pinpoll-texts.php:40
+msgid ""
+"Your feedback would help us big times! Please use the form below to let us "
+"know what we need to improve - thanks so much."
+msgstr ""
+"Dein Feedback hilft uns enorm! Bitte verwende das Formular um uns zu sagen, "
+"was wir besser machen können - vielen Dank."
+
+#: admin/resources/pinpoll-texts.php:41
+msgid "Be honest..."
+msgstr "Sei ehrlich…"
+
+#: admin/resources/pinpoll-texts.php:42
+msgid "Not now, thanks."
+msgstr "Nicht jetzt, danke."
+
+#: admin/resources/pinpoll-texts.php:43
+msgid "Send feedback"
+msgstr "Feedback senden"
+
+#: admin/resources/pinpoll-texts.php:44
+msgid "Any hints?"
+msgstr "Hast du Vorschläge?"
+
+#: admin/resources/pinpoll-texts.php:45
+msgid ""
+"Your feedback would help us a lot! Please use the form below to send us your "
+"thoughts - thanks so much."
+msgstr ""
+"Dein Feedback hilft uns enorm! Bitte verwende das Formular um uns deine "
+"Gedanken mitzuteilen - vielen Dank."
+
+#: admin/resources/pinpoll-texts.php:46
+msgid "Make a wish..."
+msgstr "Wünsch dir was…"
+
+#: admin/resources/pinpoll-texts.php:47
+msgid "Top 5:"
+msgstr "Top 5:"
+
+#: admin/resources/pinpoll-texts.php:48
+msgid "Top 5"
+msgstr "Top 5"
+
+#: admin/resources/pinpoll-texts.php:49
+msgid "No data available. To create new polls for more votes "
+msgstr ""
+"Keine Daten verfügbar. Um neue Abstimmungen zu erstellen und mehr Stimmen zu "
+"sammeln "
+
+#: admin/resources/pinpoll-texts.php:50
+msgid "click here."
+msgstr "hier klicken."
+
+#: admin/resources/pinpoll-texts.php:51
+msgid ""
+"Fatal error: Our server could not complete the request. Please refresh page!"
+msgstr ""
+"Unser Server konnte die Anfrage nicht beantworten. Bitte lade die Seite neu!"
+
+#: admin/resources/pinpoll-texts.php:52 admin/resources/pinpoll-texts.php:118
+#: admin/resources/pinpoll-texts.php:222 admin/resources/pinpoll-texts.php:265
+msgid "Our server could not complete the request. Please refresh page (WP)!"
+msgstr ""
+"Unser Server konnte die Anfrage nicht beantworten. Bitte lade die Seite neu "
+"(WP)!"
+
+#: admin/resources/pinpoll-texts.php:64
+msgid "Link your Pinpoll Account"
+msgstr "Pinpoll-Konto verbinden"
+
+#: admin/resources/pinpoll-texts.php:65 admin/resources/pinpoll-texts.php:306
+msgid "Account Settings"
+msgstr "Kontoeinstelllungen"
+
+#: admin/resources/pinpoll-texts.php:66 admin/resources/pinpoll-texts.php:67
+msgid "Looks like your account already exists. Simply link your account now:"
+msgstr ""
+"Sieht so aus als würde dein Konto bereits existieren. Du kannst es daher nun "
+"einfach verknüpfen:"
+
+#: admin/resources/pinpoll-texts.php:69 admin/resources/pinpoll-texts.php:236
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: admin/resources/pinpoll-texts.php:70
+msgid "Provide your e-mail used with Pinpoll."
+msgstr "Verwende die E-Mail-Adresse, die du bei Pinpoll hinterlegt hast."
+
+#: admin/resources/pinpoll-texts.php:71 admin/resources/pinpoll-texts.php:238
+msgid "Password:"
+msgstr "Passwort:"
+
+#: admin/resources/pinpoll-texts.php:72
+msgid "Provide your password used with Pinpoll."
+msgstr "Verwende das Passwort, das du bei Pinpoll hinterlegt hast."
+
+#: admin/resources/pinpoll-texts.php:73
+msgid "Link Account"
+msgstr "Verbinden"
+
+#: admin/resources/pinpoll-texts.php:74
+msgid "Set Password"
+msgstr "Passwort festlegen"
+
+#: admin/resources/pinpoll-texts.php:75 admin/resources/pinpoll-texts.php:243
+msgid "Forgot Password?"
+msgstr "Passwort vergessen?"
+
+#: admin/resources/pinpoll-texts.php:76
+msgid "Congratulations, your Pinpoll account is now linked with WordPress."
+msgstr "Gratuliere, dein Pinpoll-Konto wurde mit WordPress verbunden."
+
+#: admin/resources/pinpoll-texts.php:77
+msgid "Successfully switched Pinpoll account."
+msgstr "Pinpoll-Konto erfolgreich geändert."
+
+#: admin/resources/pinpoll-texts.php:78
+msgid "The following e-mail address is linked with Pinpoll:"
+msgstr "Die folgende E-Mail-Adresse ist mit Pinpoll verbunden:"
+
+#: admin/resources/pinpoll-texts.php:79
+msgid "Change E-Mail Address"
+msgstr "E-Mail-Adresse ändern"
+
+#: admin/resources/pinpoll-texts.php:80
+msgid "Show Account Settings"
+msgstr "Konto-Einstellungen anzeigen"
+
+#: admin/resources/pinpoll-texts.php:81
+msgid ""
+"Fatal Error: our server could not complete the request. Please refresh page. "
+"If problems persist, please contact: support@pinpoll.com"
+msgstr ""
+"Fatal Error: Der Server konnte die Anfrage nicht beantworten. Bitte "
+"kontaktieren sie support@pinpoll.com."
+
+#: admin/resources/pinpoll-texts.php:82
+msgid ""
+"Fatal Error: our server could not complete the request. If problems persist, "
+"please contact: support@pinpoll.com"
+msgstr ""
+"Fatal Error: Der Server konnte die Anfrage nicht beantworten. Bitte "
+"kontaktieren sie support@pinpoll.com."
+
+#: admin/resources/pinpoll-texts.php:83
+msgid "Your session has expired. Please log in again!"
+msgstr "Deine Sitzung ist abgelaufen. Bitte melde dich erneut an!"
+
+#: admin/resources/pinpoll-texts.php:84 admin/resources/pinpoll-texts.php:244
+msgid "Sorry, invalid credentials provided. Please try again!"
+msgstr "Falsche Zugangsdaten, bitte versuch es erneut!"
+
+#: admin/resources/pinpoll-texts.php:85
+msgid "Your session has expired, but we refreshed it. Keep on polling!"
+msgstr ""
+"Deine Sitzung ist abgelaufen, aber wir konnten sie wiederherstellen. Viel "
+"Spaß weiterhin!"
+
+#: admin/resources/pinpoll-texts.php:86
+msgid ""
+"You should have received an e-mail with a link to set your password, please "
+"check."
+msgstr ""
+"Du hast von uns eine E-Mail erhalten mit einem Link um dein Passwort "
+"festzulegen."
+
+#: admin/resources/pinpoll-texts.php:87
+msgid "Our server could not complete the request. Please click the link again!"
+msgstr ""
+"Unser Server konnte die Anfrage nicht beantworten. Bitte klicke nochmals auf "
+"den Link!"
+
+#: admin/resources/pinpoll-texts.php:88
+msgid ""
+"Our server could not complete the request. Please click the link again (WP)!"
+msgstr ""
+"Unser Server konnte die Anfrage nicht beantworten. Bitte klicke nochmals auf "
+"den Link (WP)!"
+
+#: admin/resources/pinpoll-texts.php:100
+msgid "All Polls"
+msgstr "Abstimmungen"
+
+#: admin/resources/pinpoll-texts.php:101 admin/resources/pinpoll-texts.php:284
+msgid "Search"
+msgstr "Suchen"
+
+#: admin/resources/pinpoll-texts.php:102 admin/resources/pinpoll-texts.php:212
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#: admin/resources/pinpoll-texts.php:103
+msgid "You are not allowed to activate this poll."
+msgstr "Du bist nicht berechtigt diese Abstimmung zu aktivieren."
+
+#: admin/resources/pinpoll-texts.php:104
+msgid "You are not allowed to deactivate this poll."
+msgstr "Du bist nicht berechtigt diese Abstimmung zu deaktivieren."
+
+#: admin/resources/pinpoll-texts.php:130 admin/resources/pinpoll-texts.php:263
+msgid "Details"
+msgstr "Details"
+
+#: admin/resources/pinpoll-texts.php:131
+msgid "Your poll is active."
+msgstr "Deine Abstimmung ist aktiv."
+
+#: admin/resources/pinpoll-texts.php:132
+msgid "Your poll is inactive."
+msgstr "Deine Abstimmung ist inaktiv."
+
+#: admin/resources/pinpoll-texts.php:133
+msgid "Deactivate Poll"
+msgstr "Abstimmung deaktivieren"
+
+#: admin/resources/pinpoll-texts.php:134
+msgid "Set Timeout"
+msgstr "Timeout festlegen"
+
+#: admin/resources/pinpoll-texts.php:136
+msgid "01-Jan"
+msgstr "01-Jän"
+
+#: admin/resources/pinpoll-texts.php:137
+msgid "02-Feb"
+msgstr "02-Feb"
+
+#: admin/resources/pinpoll-texts.php:138
+msgid "03-Mar"
+msgstr "03-Mär"
+
+#: admin/resources/pinpoll-texts.php:139
+msgid "04-Apr"
+msgstr "04-Apr"
+
+#: admin/resources/pinpoll-texts.php:140
+msgid "05-May"
+msgstr "05-Mai"
+
+#: admin/resources/pinpoll-texts.php:141
+msgid "06-Jun"
+msgstr "06-Jun"
+
+#: admin/resources/pinpoll-texts.php:142
+msgid "07-Jul"
+msgstr "07-Jul"
+
+#: admin/resources/pinpoll-texts.php:143
+msgid "08-Aug"
+msgstr "08-Aug"
+
+#: admin/resources/pinpoll-texts.php:144
+msgid "09-Sep"
+msgstr "09-Sep"
+
+#: admin/resources/pinpoll-texts.php:145
+msgid "10-Oct"
+msgstr "10-Okt"
+
+#: admin/resources/pinpoll-texts.php:146
+msgid "11-Nov"
+msgstr "11-Nov"
+
+#: admin/resources/pinpoll-texts.php:147
+msgid "12-Dec"
+msgstr "12-Dec"
+
+#: admin/resources/pinpoll-texts.php:149
+msgid "Voting will be possible from"
+msgstr "Abstimmen möglich ab"
+
+#: admin/resources/pinpoll-texts.php:150
+msgid "to"
+msgstr "bis"
+
+#: admin/resources/pinpoll-texts.php:151
+msgid "From"
+msgstr "Von"
+
+#: admin/resources/pinpoll-texts.php:152
+msgid "To"
+msgstr "Bis"
+
+#: admin/resources/pinpoll-texts.php:153
+msgid "Set"
+msgstr "Festlegen"
+
+#: admin/resources/pinpoll-texts.php:154
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: admin/resources/pinpoll-texts.php:155
+msgid "Cancel Timeout"
+msgstr "Timeout deaktivieren"
+
+#: admin/resources/pinpoll-texts.php:156
+msgid "Activate Poll"
+msgstr "Abstimmung aktivieren"
+
+#: admin/resources/pinpoll-texts.php:157
+msgid "Preview"
+msgstr "Vorschau"
+
+#: admin/resources/pinpoll-texts.php:158
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/resources/pinpoll-texts.php:159 admin/resources/pinpoll-texts.php:218
+msgid "Embed"
+msgstr "Einbinden"
+
+#: admin/resources/pinpoll-texts.php:161
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: admin/resources/pinpoll-texts.php:162
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: admin/resources/pinpoll-texts.php:163
+msgid "Current Result"
+msgstr "Aktuelles Ergebnis"
+
+#: admin/resources/pinpoll-texts.php:164
+msgid "Show Doughnut"
+msgstr "Kuchendiagramm anzeigen"
+
+#: admin/resources/pinpoll-texts.php:165
+msgid "Show Bar Chart"
+msgstr "Balkendiagramm anzeigen"
+
+#: admin/resources/pinpoll-texts.php:166
+msgid "Download Chart"
+msgstr "Diagramm speichern"
+
+#: admin/resources/pinpoll-texts.php:167
+msgid "Collect more votes"
+msgstr "Mehr Stimmen sammeln"
+
+#: admin/resources/pinpoll-texts.php:168
+msgid "In order to collect more votes, try this:"
+msgstr "Tipps für mehr Antworten:"
+
+#: admin/resources/pinpoll-texts.php:169
+msgid "Embed this poll in your articles."
+msgstr "Binde diese Abstimmung in deine Artikel ein."
+
+#: admin/resources/pinpoll-texts.php:170
+msgid "Share your poll on Facebook."
+msgstr "Abstimmung auf Facebook teilen."
+
+#: admin/resources/pinpoll-texts.php:171
+msgid "Stats"
+msgstr "Statistik"
+
+#: admin/resources/pinpoll-texts.php:172
+msgid "More data..."
+msgstr "Mehr Daten…"
+
+#: admin/resources/pinpoll-texts.php:174
+msgid "Recommendations"
+msgstr "Empfehlungen"
+
+#: admin/resources/pinpoll-texts.php:175
+msgid "Users"
+msgstr "Nutzer"
+
+#: admin/resources/pinpoll-texts.php:176
+msgid "Number of unique users who have viewed this poll."
+msgstr "Anzahl der eindeutigen Besucher."
+
+#: admin/resources/pinpoll-texts.php:177
+msgid "Views"
+msgstr "Aufrufe"
+
+#: admin/resources/pinpoll-texts.php:178
+msgid "Total number of times this poll has been viewed."
+msgstr "Gesamte Anzahl von Aufrufen für diese Abstimmung."
+
+#: admin/resources/pinpoll-texts.php:179
+msgid "Participants"
+msgstr "Teilnehmer"
+
+#: admin/resources/pinpoll-texts.php:180
+msgid "Number of unique users who have voted."
+msgstr "Anzahl der eindeutigen Besucher die abgestimmt haben."
+
+#: admin/resources/pinpoll-texts.php:181
+msgid "Total number of votes generated by this poll."
+msgstr "Gesamte Anzahl von Stimmen für diese Abstimmung."
+
+#: admin/resources/pinpoll-texts.php:182
+msgid "Engagement"
+msgstr "Interaktion"
+
+#: admin/resources/pinpoll-texts.php:183
+msgid "Votes / Users"
+msgstr "Stimmen / Nutzer"
+
+#: admin/resources/pinpoll-texts.php:184
+msgid "Votes/Participant"
+msgstr "Stimmen/Teilnehmer"
+
+#: admin/resources/pinpoll-texts.php:185
+msgid "Votes / Participant"
+msgstr "Stimmen / Teilnehmer"
+
+#: admin/resources/pinpoll-texts.php:186
+msgid "Lifetime"
+msgstr "Lifetime"
+
+#: admin/resources/pinpoll-texts.php:188
+msgid "Clicks (after vote)"
+msgstr "Klicks nach Abstimmung"
+
+#: admin/resources/pinpoll-texts.php:189
+msgid "Number of clicks on recommendations directly after user has voted."
+msgstr "Anzahl der Klicks auf Empfehlung direkt nachdem abgestimmt wurde."
+
+#: admin/resources/pinpoll-texts.php:190 admin/resources/pinpoll-texts.php:191
+#: admin/resources/pinpoll-texts.php:196
+msgid "Clicks (total)"
+msgstr "Klicks (gesamt)"
+
+#: admin/resources/pinpoll-texts.php:192
+msgid "Click Rate (Votes)"
+msgstr "Klickrate (Stimmen) "
+
+#: admin/resources/pinpoll-texts.php:193
+msgid "Clicks (after vote) / Votes."
+msgstr "Klicks (nach Abstimmung) / Stimmen."
+
+#: admin/resources/pinpoll-texts.php:194
+msgid "Click Rate (Views)"
+msgstr "Klickrate (Aufrufe)"
+
+#: admin/resources/pinpoll-texts.php:195
+msgid "Clicks (total) / Views."
+msgstr "Klicks (gesamt) / Aufrufe."
+
+#: admin/resources/pinpoll-texts.php:197
+msgid "Number of clicks on recommendations."
+msgstr "Anzahl der Klicks auf Empfehlung."
+
+#: admin/resources/pinpoll-texts.php:206
+msgid "Reset poll?"
+msgstr "Abstimmung zurücksetzen?"
+
+#: admin/resources/pinpoll-texts.php:207
+msgid ""
+"Attention: This action cannot be undone. Please confirm to reset your poll "
+"and let users vote from zero. Old votes can still be retrieved from the "
+"history view."
+msgstr ""
+"Achtung: Diese Aktion kann nicht rückgängig gemacht werden! Die Abstimmung "
+"wird zurückgesetzt und startet für Teilnehmer neu. Alte Stimmen können "
+"weiterhin über die Verlaufsansicht abgerufen werden."
+
+#: admin/resources/pinpoll-texts.php:208
+msgid "Yes, reset"
+msgstr "Ja, zurücksetzen"
+
+#: admin/resources/pinpoll-texts.php:209
+msgid "Yes, delete"
+msgstr "Ja, löschen"
+
+#: admin/resources/pinpoll-texts.php:210
+msgid "Reset!"
+msgstr "Zurückgesetzt!"
+
+#: admin/resources/pinpoll-texts.php:211
+msgid "Your poll was successfully reset!"
+msgstr "Deine Abstimmung wurde erfolgreich zurückgesetzt!"
+
+#: admin/resources/pinpoll-texts.php:213
+msgid ""
+"Attention: This action cannot be undone. Please confirm to delete the poll "
+"and all related data."
+msgstr ""
+"Achtung: Diese Aktion kann nicht rückgängig gemacht werden! Bitte das "
+"Löschen der Abstimmung und aller verknüpften Daten bestätigen."
+
+#: admin/resources/pinpoll-texts.php:214
+msgid "Deleted!"
+msgstr "Gelöscht!"
+
+#: admin/resources/pinpoll-texts.php:215
+msgid "Your poll was successfully deleted."
+msgstr "Deine Abstimmung wurde erfolgreich gelöscht!"
+
+#: admin/resources/pinpoll-texts.php:216
+msgid "Error"
+msgstr "Fehler"
+
+#: admin/resources/pinpoll-texts.php:217
+msgid "Something went wrong."
+msgstr "Leider gab es ein Problem."
+
+#: admin/resources/pinpoll-texts.php:219
+msgid "Copy & paste this shortcode to your articles:"
+msgstr "Kopiere diesen Shortcode und füge ihn in deine Artikel ein:"
+
+#: admin/resources/pinpoll-texts.php:220
+msgid "Copy & paste this code to your widgets:"
+msgstr "Kopiere diesen Code und füge ihn in dein Widget ein:"
+
+#: admin/resources/pinpoll-texts.php:221
+msgid "You are not allowed to modify this poll!"
+msgstr "Du hast keine Berechtigung die Abstimmung zu ändern!"
+
+#: admin/resources/pinpoll-texts.php:234
+msgid "Switch your Pinpoll Account"
+msgstr "Pinpoll Account wechseln"
+
+#: admin/resources/pinpoll-texts.php:235
+msgid ""
+"Please enter your e-mail address and password for Pinpoll to link this "
+"account with WordPress."
+msgstr ""
+"Bitte gib die E-Mail-Adresse und das Passwort für Pinpoll an, um dieses "
+"Konto mit WordPress zu verbinden."
+
+#: admin/resources/pinpoll-texts.php:237
+msgid "Your e-mail address used with Pinpoll"
+msgstr "E-Mail-Adresse, die du bei Pinpoll hinterlegt hast"
+
+#: admin/resources/pinpoll-texts.php:239
+msgid "Your password used with Pinpoll"
+msgstr "Passwort, das du bei Pinpoll hinterlegt hast"
+
+#: admin/resources/pinpoll-texts.php:240
+msgid "Switch Account"
+msgstr "Konto ändern"
+
+#: admin/resources/pinpoll-texts.php:241
+msgid "E-Mail address is required!"
+msgstr "E-Mail-Adresse wird benötigt!"
+
+#: admin/resources/pinpoll-texts.php:242
+msgid "Password is required!"
+msgstr "Passwort wird benötigt!"
+
+#: admin/resources/pinpoll-texts.php:256
+msgid "Please select a poll to edit!"
+msgstr "Bitte Abstimmung zum bearbeiten auswählen."
+
+#: admin/resources/pinpoll-texts.php:257
+msgid "You are not allowed to delete something here!"
+msgstr "Du hast keine Berechtigung etwas zu löschen!"
+
+#: admin/resources/pinpoll-texts.php:258
+msgid "Poll "
+msgstr "Abstimmung"
+
+#: admin/resources/pinpoll-texts.php:259
+msgid "deleted! "
+msgstr "gelöscht."
+
+#: admin/resources/pinpoll-texts.php:260 admin/resources/pinpoll-texts.php:282
+msgid "Our server could not complete the request. Please refresh page!"
+msgstr ""
+"Unser Server konnte die Anfrage nicht beantworten. Bitte lade die Seite neu!"
+
+#: admin/resources/pinpoll-texts.php:261
+msgid "Polls deleted!"
+msgstr "Abstimmungen gelöscht."
+
+#: admin/resources/pinpoll-texts.php:262
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+#: admin/resources/pinpoll-texts.php:277
+msgid "Insert Poll"
+msgstr "Abstimmung einfügen"
+
+#: admin/resources/pinpoll-texts.php:278
+msgid "Insert Shortcode"
+msgstr "Shortcode einfügen"
+
+#: admin/resources/pinpoll-texts.php:279
+msgid "Select Poll"
+msgstr "Abstimmung auswählen"
+
+#: admin/resources/pinpoll-texts.php:280
+msgid "Search for poll"
+msgstr "Abstimmung suchen"
+
+#: admin/resources/pinpoll-texts.php:283
+msgid "Search for:"
+msgstr "Suchbegriff:"
+
+#: admin/resources/pinpoll-texts.php:285
+msgid "Select"
+msgstr "Auswahl"
+
+#: admin/resources/pinpoll-texts.php:287
+msgid "Poll ID: "
+msgstr "Abstimmungs ID: "
+
+#: admin/resources/pinpoll-texts.php:288
+msgid "Poll"
+msgstr "Abstimmung"
+
+#: admin/resources/pinpoll-texts.php:289
+msgid "Search for polls by ID or question."
+msgstr "Nach Abstimmung mittels ID oder Frage suchen."
+
+#: admin/resources/pinpoll-texts.php:290
+msgid "Your session has expired. Please visit your Dashboard!"
+msgstr "Deine Sitzung ist abgelaufen. Bitte rufe dein Dashboard auf!"
+
+#: admin/resources/pinpoll-texts.php:302
+msgid "Pinpoll"
+msgstr "Pinpoll"
+
+#: admin/resources/pinpoll-texts.php:304
+msgid "Polls"
+msgstr "Abstimmungen"
+
+#: pinpoll.php:76
+msgid ""
+"<div class=\"wrap\"><div class=\"error notice notice-error is-dismissible\"> "
+"<p> Pinpoll requires WordPress 3.3 and PHP 5.5 or higher! </p> </div></div>"
+msgstr ""
+"<div class=\"wrap\"><div class=\"error notice notice-error is-dismissible\"> "
+"<p> Pinpoll benötigt mindestens Wordpress Version 3.3 und PHP 5.5! </p> </"
+"div></div>"
+
+#: pinpoll.php:96
+msgid "Pinpoll requires WordPress 3.3 and PHP 5.5 or higher!"
+msgstr "Pinpoll benötigt mindestens Wordpress Version 3.3 und PHP 5.5!"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Sonstiges"
+
+#~ msgid "Arts & Humanities"
+#~ msgstr "Bildende Künste"
+
+#~ msgid "Beauty & Style"
+#~ msgstr "Beauty & Style"
+
+#~ msgid "Business & Finance"
+#~ msgstr "Wirtschaft & Finanzen"
+
+#~ msgid "Cars & Transportation"
+#~ msgstr "Auto & Verkehr"
+
+#~ msgid "Computers & Internet"
+#~ msgstr "Computer & Internet"
+
+#~ msgid "Consumer Electronics"
+#~ msgstr "Hifi & Elektronik"
+
+#~ msgid "Dining Out"
+#~ msgstr "Ausgehen"
+
+#~ msgid "Education & Reference"
+#~ msgstr "Forschung & Bildung"
+
+#~ msgid "Entertainment & Music"
+#~ msgstr "Unterhaltung & Musik"
+
+#~ msgid "Environment"
+#~ msgstr "Umwelt"
+
+#~ msgid "Events"
+#~ msgstr "Events"
+
+#~ msgid "Family & Relationships"
+#~ msgstr "Familie & Beziehung"
+
+#~ msgid "Games & Recreation"
+#~ msgstr "Spiele & Freizeit"
+
+#~ msgid "Health"
+#~ msgstr "Gesundheit"
+
+#~ msgid "Local Businesses"
+#~ msgstr "Lokale Geschäfte"
+
+#~ msgid "Politics & Government"
+#~ msgstr "Politik & Regierung"
+
+#~ msgid "Pregnancy & Parenting"
+#~ msgstr "Schwangerschaft & Erziehung"
+
+#~ msgid "Science & Mathematics"
+#~ msgstr "Wissenschaft & Mathematik"
+
+#~ msgid "Social Science"
+#~ msgstr "Sozialforschung"
+
+#~ msgid "Photography"
+#~ msgstr "Fotografie"
+
+#~ msgid "Society & Culture"
+#~ msgstr "Gesellschaft & Kultur"
+
+#~ msgid "Sports & Fitness"
+#~ msgstr "Sport & Fitness"
+
+#~ msgid "Travel & Places"
+#~ msgstr "Reisen & Orte"
+
+#~ msgid "Work & Career"
+#~ msgstr "Arbeit & Karriere"
+
+#~ msgid "You will need this script in your theme or widget:"
+#~ msgstr ""
+#~ "Das folgende Script muss sich in ihrem Theme oder im Widget befinden:"
+
+#~ msgid "You need this script in your theme or widget:"
+#~ msgstr ""
+#~ "Das folgende Script muss sich in deinem Theme oder im Widget befinden."
+
+#~ msgid "Add an image to this poll."
+#~ msgstr "Füge ein Bild für diese Abstimmung hinzu"
+
+#~ msgid "Sorry, invalid credentials provided. Pleas try again!"
+#~ msgstr "Die Benutzerdaten sind leider falsch. Bitte versuche es erneut!"
+
+#~ msgid "Great! Want to help us by writing a <strong>Plugin Review</strong>?"
+#~ msgstr ""
+#~ "Cool! Willst du uns mit einem <strong>WordPress Review</strong> helfen?"
+
+#~ msgid "Your plugin review will help us big times."
+#~ msgstr "Deine WordPress-Bewertung hilft uns enorm."
+
+#~ msgid "Click on \"Plugin Review\" to write a review - thanks so much! "
+#~ msgstr ""
+#~ "Klicke auf „Bewertung abgeben“ um dein Feedback zu verfassen - vielen "
+#~ "Dank!"
+
+#~ msgid ""
+#~ "We are sorry, our server encountered something unexpected that didn't "
+#~ "allow it to complete the request. Pleas refresh page!"
+#~ msgstr ""
+#~ "Unser Server konnte die Anfrage leider nicht bearbeiten. Bitte lade die "
+#~ "Seite neu!"
+
+#~ msgid ""
+#~ "We are sorry, our server encountered something unexpected that didn't "
+#~ "allow it to complete the request. (WP)"
+#~ msgstr ""
+#~ "Unser Server konnte die Anfrage leider nicht bearbeiten. Bitte lade die "
+#~ "Seite neu (WP)!"
+
+#~ msgid "Connect to your Pinpoll Account"
+#~ msgstr "Mit Pinpoll-Konto verknüpfen"
+
+#~ msgid ""
+#~ "Looks like you are already a statisfied pinpoll user. Enter you password "
+#~ "and link your account with wordpress. Thats all!"
+#~ msgstr ""
+#~ "Sieht so aus als würdest du bereits ein Pinpoll-Konto haben. Dieses "
+#~ "kannst du nun ganz einfach verknüpfen:"
+
+#~ msgid ""
+#~ "Looks like you are already a statisfied pinpoll user. Click on the button "
+#~ "below to set your password. Thats all!"
+#~ msgstr ""
+#~ "Sieht so aus als würdest du bereits ein Pinpoll-Konto haben. Dieses "
+#~ "kannst du nun ganz einfach verknüpfen:"
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid "Your Pinpoll email"
+#~ msgstr "E-Mail-Adresse deines Pinpoll-Kontos angeben"
+
+#~ msgid "Your Pinpoll password"
+#~ msgstr "Passwort deines Pinpoll-Kontos angeben"
+
+#~ msgid "Congratulations! Your are now connected with Pinpoll."
+#~ msgstr "Gratuliere! Du bist mit deinem Pinpoll Konto verbunden."
+
+#~ msgid "Successfully switched account!"
+#~ msgstr "Dein Konto wurde erfolgreich gewechselt."
+
+#~ msgid "This e-mail address is linked with Pinpoll:"
+#~ msgstr "Diese E-Mail-Adresse ist mit Pinpoll verbunden:"
+
+#~ msgid "Change Email"
+#~ msgstr "E-Mail-Adresse ändern"
+
+#~ msgid "My Account Settings"
+#~ msgstr "Meine Kontoeinstellungen"
+
+#~ msgid ""
+#~ "We are sorry, our server encountered something unexpected that didn't "
+#~ "allow it to complete the request."
+#~ msgstr ""
+#~ "Es trat ein Serverproblem auf, welches es dem Server unmöglich machte die "
+#~ "Anfrage zu beenden."
+
+#~ msgid "Your session has been expired. Please login in!"
+#~ msgstr "Die aktuelle Session ist abgelaufen. Bitte melde dich an!"
+
+#~ msgid "Sorry, invalid credentials. Try again!"
+#~ msgstr "Die Zugangsdaten sind ungültig."
+
+#~ msgid "Are you sure to delete poll?"
+#~ msgstr "Wollen Sie diese Abstimmung wirklich löschen?"
+
+#~ msgid "You are not allowed to activate this poll!"
+#~ msgstr "Sie sind nicht dazu berechtigt diese Abstimmung zu aktivieren."
+
+#~ msgid "Your are not allowed to deactivate this poll!"
+#~ msgstr "Sie sind nicht dazu berechtig diese Abstimmung zu deaktivieren."
+
+#~ msgid "Pie Chart"
+#~ msgstr "Kuchendiagramm"
+
+#~ msgid "Bar Chart"
+#~ msgstr "Balkendiagramm"
+
+#~ msgid "Embed this poll to your website."
+#~ msgstr "Abstimmung in einen Artikel einbinden."
+
+#~ msgid ""
+#~ "Please enter your Pinpoll email and password to access to your account."
+#~ msgstr ""
+#~ "Bitte gib die Email-Adresse und das Passwort deines Pinpoll-Kontos ein, "
+#~ "um dieses mit WordPress zu verbinden."
+
+#~ msgid "Email required!"
+#~ msgstr "Email benötigt!"
+
+#~ msgid "Password required!"
+#~ msgstr "Passwort benötigt!"
+
+#~ msgid "Poll with ID "
+#~ msgstr "Abstimmung "
+
+#~ msgid "Category"
+#~ msgstr "Kategorie wählen"
+
+#~ msgid "Quick Insert"
+#~ msgstr "Shortcode einfügen"
+
+#~ msgid "Select your Poll"
+#~ msgstr "Abstimmung suchen"
+
+#~ msgid "Search:"
+#~ msgstr "Suchbegriff:"
+
+#~ msgid "Search for polls with id or question as searchkey."
+#~ msgstr "Abstimmung mittels ID oder Frage suchen."
+
+#~ msgid ""
+#~ "We are sorry, your session has been expired! Please visit Dashboard in "
+#~ "your Pinpoll Plugin - thanks!"
+#~ msgstr "Deine Sitzung ist abgelaufen. Bitte ruf dein Dashboard auf!"
+
+#~ msgid "Settings"
+#~ msgstr "Kontoeinstelllungen"
+
+#~ msgid "Pinpoll Email"
+#~ msgstr "Kontoeinstellungen"
+
+#~ msgid "You are linked with Pinpoll via"
+#~ msgstr "Folgende E-Mail-Adresse ist mit Pinpoll verknüpft:"
+
+#~ msgid "Pinpoll: How can we improve?"
+#~ msgstr "Pinpoll: Was können wir besser machen?"
+
+#~ msgid "Plugin Review"
+#~ msgstr "Plugin Review"
+
+#~ msgid "Pinpoll: Any hints?"
+#~ msgstr "Pinpoll: Hast du Vorschläge?"
+
+#~ msgid "No data available. Collect more votes by creating new polls "
+#~ msgstr ""
+#~ "Keine Daten verfügbar. Um neue Abstimmungen zu erstellen und mehr Stimmen "
+#~ "zu sammeln "
+
+#~ msgid "here."
+#~ msgstr "hier klicken."
+
+#~ msgid "Wer are sorry, Pinpoll service is currently not available."
+#~ msgstr "Entschuldigen Sie, Pinpoll ist im Moment nicht erreichbar!"
+
+#~ msgid "Sorry, your password is wrong. Try again!"
+#~ msgstr "Die Zugangsdaten sind ungültig."
+
+#~ msgid "Please"
+#~ msgstr "Bitte"
+
+#~ msgid "connect"
+#~ msgstr "verbinden"
+
+#~ msgid "to your Pinpoll-Account to receive all your polls!"
+#~ msgstr ""
+#~ "Sie sich mit Ihrem Pinpoll-Account, um all Ihre Umfragen zu erhalten."
+
+#~ msgid "Poll ID"
+#~ msgstr "Poll ID"
+
+#~ msgid "Doughnut Chart"
+#~ msgstr "Doughnutdiagramm"
+
+#~ msgid "Poll Details"
+#~ msgstr "Details der Abstimmung"
+
+#~ msgid "You are not allowed to deactivate this poll!"
+#~ msgstr "Sie sind nicht dazu berechtigt diese Abstimmung zu deaktivieren."
+
+#~ msgid "Add New"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Edit Poll"
+#~ msgstr "Abstimmung bearbeiten"
+
+#~ msgid "Pinpoll Account"
+#~ msgstr "Pinpoll Konto"
+
+#~ msgid "Overview"
+#~ msgstr "Übersicht"
+
+#~ msgid "Manage Poll"
+#~ msgstr "Abstimmung verwalten"
+
+#~ msgid ""
+#~ "We are sorry, Pinpoll service currently not available, please try again "
+#~ "later!"
+#~ msgstr ""
+#~ "Es trat ein Serverproblem auf, welches es dem Server unmöglich machte die "
+#~ "Anfrage zu beenden."
+
+#~ msgid "Email required test"
+#~ msgstr "Email benötigt!"
+
+#~ msgid "Password required test"
+#~ msgstr "Passwort benötigt!"
+
+#~ msgid ""
+#~ "Please <a href=\"admin.php?page=cockpit\">conntect</a> to your Pinpoll-"
+#~ "Account to receive all your polls!"
+#~ msgstr ""
+#~ "Bitte <a href=\"admin.php?page=cockpit\">verbinden</a> sie sich mit Ihrem "
+#~ "Pinpoll-Account!"
